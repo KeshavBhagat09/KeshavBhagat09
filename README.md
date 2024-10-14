@@ -1,5 +1,3 @@
-
-<img src="https://github.com/user-attachments/assets/b9b67405-1567-477f-aab3-5109a21356fc" width="100%" height="150"/>
 <h1 align="left">👨‍💻 Hello World, it's Keshav Bhagat</h1>
 <h3 align="left"> Hey there! I'm a 18-year-old web development student passionate about turning ideas into clean, functional code and bringing them to life! 🚀</h3>
 
@@ -16,9 +14,7 @@
 <h2 align="left">⌨️Languages and Tools:</h2>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="50"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="50"/> <img src="https://skillicons.dev/icons?i=github" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="40" width="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="40" width="50"/>
-          
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="50"/> <img src="https://skillicons.dev/icons?i=github" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="50"/>
 </p>
 
 <hr>
