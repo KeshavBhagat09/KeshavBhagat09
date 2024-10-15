@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" />
 </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World+It's+Keshav+Bhagat" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2500&pause=1000&color=E52521&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+World+It's+Keshav+Bhagat" alt="Typing SVG" /></a>
 <h3 align="center">Student at Manipal University Jaipur</h3>
 
 <br/>
