@@ -16,6 +16,9 @@
 - ⚡ Fun fact **Who needs coffee when you have adrenaline from chasing down bugs at 3 AM?**
 
 <h2 align="left">📨 Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/keshav-bhagat-20631a314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masood-khan-7710472b6" height="30" width="40" /></a>
+</p>
 
 <h2 align="left">⌨️Languages and Tools:</h2>
 <p align="left">
