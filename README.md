@@ -22,7 +22,7 @@
 
 <h2 align="left">⌨️Languages and Tools:</h2>
 <div align = "center">
-          <img src="https://skillicons.dev/icons?i=css,figma,git,github,html,mongodb,npm,postman,react,redux,replit,wordpress,androidstudio,bootstrap" />
+          <img src="https://skillicons.dev/icons?i= html,css,javascript,git,github,figma,mongodb,npm,postman,react,redux,replit,wordpress,androidstudio,bootstrap" />
 <div/>
 
 <hr>
