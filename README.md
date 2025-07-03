@@ -21,9 +21,8 @@
 </p>
 
 <h2 align="left">⌨️Languages and Tools:</h2>
-<p align="left">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="50"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="50"/> <img src="https://skillicons.dev/icons?i=github" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="50"/>
-</p>
+<div align = "center">
+          <img src="https://skillicons.dev/icons?i=css,figma,git,github,html,mongodb,npm,postman,react,redux,replit,wordpress,androidstudio,bootstrap" />
+<div/>
 
 <hr>
