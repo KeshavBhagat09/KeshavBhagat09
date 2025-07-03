@@ -17,7 +17,10 @@
 
 <h2 align="left">📨 Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/keshav-bhagat-20631a314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masood-khan-7710472b6" height="30" width="40" /></a>
+ <a href="mailto:sendemailtokeshav@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="KeshavBhagat" width="45" height="45"/></a>
+   <a href="https://x.com/KeshavBhagat09" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="KeshavBhagat" width="45" height="45"/></a>
+   <a href="https://www.linkedin.com/in/keshav-bhagat-20631a314/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/></a>
+  
 </p>
 
 <h2 align="left">⌨️Languages and Tools:</h2>
