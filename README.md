@@ -26,7 +26,7 @@
 <h2 align="left">⌨️Languages and Tools:</h2>
 <div align = "center">
           <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,figma,mongodb,npm,postman,react,nodejs,redux,replit,wordpress,bootstrap" />
-              <img src="https://skillicons.dev/icons?i=androidstudio,python,javascript,ubuntu,mysql,tailwind,threejs,vite,bash,vscode" /><br>
+              <img src="https://skillicons.dev/icons?i=androidstudio,python,ubuntu,mysql,tailwind,threejs,vite,bash,vscode" /><br>
 <div/>
 
 <hr>
