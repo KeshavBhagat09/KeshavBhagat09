@@ -4,48 +4,59 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2300&pause=1000&color=F70202&center=true&vCenter=true&width=550&lines=Hello+World!+I'm+Keshav+Bhagat;Frontend+Developer;React+%7C+JavaScript+%7C+MERN;Process+Associate+III+at+CDOE+MUJ" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2300&pause=1000&color=F70202&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Keshav+Bhagat;Process+Associate+III+at+CDOE+MUJ;Frontend+Developer+%7C+Tech+Enthusiast;Always+Learning+New+Skills" alt="Typing SVG" />
   </a>
 </h1>
 
 <br/>
 
-<h3 align="left">
-Hey there! 👋 I'm Keshav Bhagat, currently working as a <b>Process Associate – III at CDOE, Manipal University Jaipur</b> and continuously learning new skills in web development, technology, and problem-solving to grow professionally 🚀
+<h3 align="center">
+👋 Welcome to my GitHub Profile
 </h3>
 
-<h3>🎓 BCA Graduate | 💻 Tech Enthusiast | 🚀 Lifelong Learner</h3>
+<h3 align="left">
+I'm Keshav Bhagat, a BCA graduate currently working as a <b>Process Associate – III at CDOE, Manipal University Jaipur</b>.  
+Passionate about technology, web development, and continuous learning, I enjoy exploring new tools and improving my analytical and technical skills every day 🚀
+</h3>
 
-- 🔭 Currently exploring **React, JavaScript, MERN Stack & Modern Web Technologies**
+<br/>
 
-- 🌱 Learning and improving my skills in **Frontend & Backend Development**
+- 💼 Currently working at **CDOE, Manipal University Jaipur**
 
-- 💼 Working as **Process Associate – III at CDOE, Manipal University Jaipur**
+- 📊 Learning **Excel, Data Analysis Tools, Reporting & Process Management**
+
+- 💻 Interested in **Web Development, Technology & Problem Solving**
+
+- 🌱 Exploring modern tools and continuously upgrading my skill set
 
 - 📫 Reach me at: **sendemailtokeshav@gmail.com**
 
-- ⚡ Fun fact: **Debugging at 3 AM still feels satisfying 🚀**
+- ⚡ Fun fact: **I enjoy solving bugs more than sleeping sometimes 😄**
 
-<h2 align="left">📨 Connect with me:</h2>
+<br/>
 
-<p align="left">
+<h2 align="center">📨 Connect with me</h2>
+
+<p align="center">
   <a href="mailto:sendemailtokeshav@gmail.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" width="50" height="50"/>
   </a>
 
   <a href="https://x.com/KeshavBhagat09" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" width="45" height="45"/>
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" width="50" height="50"/>
   </a>
 
   <a href="https://www.linkedin.com/in/keshav-bhagat-20631a314/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
   </a>
 </p>
 
-<h2 align="left">⌨️ Languages and Tools:</h2>
+<br/>
+
+<h2 align="center">⌨️ Languages & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,tailwind,redux,git,github,figma,vite,postman,npm,bootstrap,python,mysql,ubuntu,bash,vscode,threejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,tailwind,redux,git,github,figma,vite,postman,npm,bootstrap,python,mysql,ubuntu,bash,vscode,threejs,excel,powerbi,office,word" />
 </div>
 
 <hr>
